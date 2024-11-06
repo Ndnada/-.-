@@ -16,12 +16,12 @@ global.xaxa = 'kana'
 global.suittag = ['22247072475', '22247072475'];
 global.prems = ['22247072475', '22247072475'];
 
-global.packname = 'Nezuko🧸 ';
-global.author = '★Nezuko🌺★';
-global.wm = '★Nezuko BOT★';
-global.titulowm = ' Nezuko ';
-global.titulowm2 = ` Nezuko `
-global.igfg = ' Nezuko ';
+global.packname = '𝑵𝑨𝑫𝑨 ';
+global.author = '★𝑵𝑨𝑫𝑨★';
+global.wm = '★𝑵𝑨𝑫𝑨 𝑩𝑶★';
+global.titulowm = ' 𝑵𝑨𝑫𝑨 ';
+global.titulowm2 = ` 𝑵𝑨𝑫𝑨 `
+global.igfg = '𝑵𝑨𝑫𝑨';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
